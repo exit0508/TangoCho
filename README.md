@@ -7,6 +7,6 @@ Python3で作成した単語帳を作成する簡易的なプログラムにな�
 1. TangoChoのimport_words.py内のインポートとエクスポートするファイル場所を書き換える  
 1. プログラム実行後，英単語とWeblioから抽出した意味を併せてエクスポートしたファイルができます  
 
-#参考サイト
+# 参考サイト
 - [webスクレイピングで英単語の和訳を取得する](https://kazzstorage.com/scraping-spell/)
 - [【Python】初心者が Pythonで英単語帳を作ってみた〜検索・保存編〜](https://py-memo.com/python/english-wordbook-part1/)
